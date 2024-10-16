@@ -114,7 +114,7 @@ module.exports = {
 +       },
 +     },
     }],
-+   include: /node_modules\/tdesign-web-components/, // 建议对组件库中的less单独处理
++   include: /node_modules\\/tdesign-web-components/, // 建议对组件库中的less单独处理
   }],
 }
 ```
